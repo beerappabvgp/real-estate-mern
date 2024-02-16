@@ -8,7 +8,7 @@ Welcome to our MERN (MongoDB, Express.js, React.js, Node.js) Real Estate Applica
 - **CRUD Operations**: Full CRUD (Create, Read, Update, Delete) functionality for managing real estate listings, empowering users to create, edit, and delete listings as needed.
 - **Robust Search**: Efficient search functionality enables users to easily find desired properties based on various criteria.
 - **Firebase Integration**: Storage of images is seamlessly handled through Firebase, ensuring reliable image hosting for property listings.
-- **Responsive UI**: A modern and visually appealing user interface built with React.js ensures a smooth and enjoyable user experience across devices.
+- **Responsive UI**: A modern and visually appealing user interface built with React.js ensures a smooth and enjoyable user experience across devices. 
 
 ## Getting Started
 
