@@ -16,7 +16,7 @@ Welcome to our MERN (MongoDB, Express.js, React.js, Node.js) Real Estate Applica
 2. Install dependencies using `npm install`.
 3. Set up environment variables for MongoDB connection, JWT secret, and Firebase credentials.
 4. Run the server using `npm start` and navigate to the client directory to start the React app.
-5. Explore the application and start managing real estate listings effortlessly!
+5. Explore the application and start managing real estate listings effortlessly! 
 
 ## Screenshot
 
